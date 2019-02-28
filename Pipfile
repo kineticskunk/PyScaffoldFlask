@@ -16,6 +16,7 @@ flask-bcrypt = "*"
 flask-login = "*"
 pillow = "*"
 flask-mail = "*"
+pytest = "*"
 
 [requires]
 python_version = "3.7"
